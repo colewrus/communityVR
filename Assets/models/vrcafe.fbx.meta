@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: ca95450f04a7f284cb9835c76fc3543e
+timeCreated: 1499560972
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube
+    100004: Lamp
+    100006: Roof
+    100008: //RootNode
+    100010: Sign
+    100012: Sign2
+    100014: Window
+    100016: Cube.001
+    100018: wall
+    100020: Sign.001
+    100022: door
+    100024: opensign
+    100026: signs
+    100028: parking spot
+    100030: chair
+    100032: table
+    100034: wall.001
+    100036: wall.002
+    100038: purple
+    100040: whiteawn
+    400000: Camera
+    400002: Cube
+    400004: Lamp
+    400006: Roof
+    400008: //RootNode
+    400010: Sign
+    400012: Sign2
+    400014: Window
+    400016: Cube.001
+    400018: wall
+    400020: Sign.001
+    400022: door
+    400024: opensign
+    400026: signs
+    400028: parking spot
+    400030: chair
+    400032: table
+    400034: wall.001
+    400036: wall.002
+    400038: purple
+    400040: whiteawn
+    2300000: Cube
+    2300002: Roof
+    2300004: Sign
+    2300006: Sign2
+    2300008: Window
+    2300010: Cube.001
+    2300012: wall
+    2300014: Sign.001
+    2300016: door
+    2300018: opensign
+    2300020: signs
+    2300022: parking spot
+    2300024: chair
+    2300026: table
+    2300028: wall.001
+    2300030: wall.002
+    2300032: purple
+    2300034: whiteawn
+    3300000: Cube
+    3300002: Roof
+    3300004: Sign
+    3300006: Sign2
+    3300008: Window
+    3300010: Cube.001
+    3300012: wall
+    3300014: Sign.001
+    3300016: door
+    3300018: opensign
+    3300020: signs
+    3300022: parking spot
+    3300024: chair
+    3300026: table
+    3300028: wall.001
+    3300030: wall.002
+    3300032: purple
+    3300034: whiteawn
+    4300000: Roof
+    4300002: Cube
+    4300004: Sign
+    4300006: Sign2
+    4300008: Window
+    4300010: Cube.001
+    4300012: wall
+    4300014: Sign.001
+    4300016: door
+    4300018: opensign
+    4300020: signs
+    4300022: parking spot
+    4300024: table
+    4300026: chair
+    4300028: wall.002
+    4300030: wall.001
+    4300032: whiteawn
+    4300034: purple
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
